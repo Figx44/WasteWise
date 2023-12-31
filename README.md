@@ -21,7 +21,7 @@ Beyond waste management, WasteWise promotes sustainable living. Users are reward
 Explore WasteWise: [WasteWise Mobile App](https://www.wastewise.me/)
 
 ## My Contribution
-- Team Management
-- Dashboard Frontend and Backend
-- App Functionality Design
+- Figma Design
+- Search Page, Frontend and Backend
+- About Page
 
